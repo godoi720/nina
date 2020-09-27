@@ -16,7 +16,7 @@ namespace _12345
 
             for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine("Digite a nota do aluno " + i + ";");
+                Console.WriteLine("Digite a b nota do aluno " + i + ";");
                 float nota = 0;
                 float.TryParse(Console.ReadLine(), out nota);
                 soma += nota;

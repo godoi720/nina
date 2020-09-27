@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karen\\source\\repos\\12345\\12345\\12345.csproj": {}
+    "C:\\Users\\karen\\source\\nina\\12345\\12345.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karen\\source\\repos\\12345\\12345\\12345.csproj": {
+    "C:\\Users\\karen\\source\\nina\\12345\\12345.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karen\\source\\repos\\12345\\12345\\12345.csproj",
+        "projectUniqueName": "C:\\Users\\karen\\source\\nina\\12345\\12345.csproj",
         "projectName": "12345",
-        "projectPath": "C:\\Users\\karen\\source\\repos\\12345\\12345\\12345.csproj",
+        "projectPath": "C:\\Users\\karen\\source\\nina\\12345\\12345.csproj",
         "packagesPath": "C:\\Users\\karen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karen\\source\\repos\\12345\\12345\\obj\\",
+        "outputPath": "C:\\Users\\karen\\source\\nina\\12345\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karen\\AppData\\Roaming\\NuGet\\NuGet.Config",
